@@ -60,8 +60,6 @@
     gap: 50px;
 }
 
-
-
 .body-title{
     font-size: 30px;
     margin-bottom: 15px;
@@ -83,5 +81,47 @@
     margin-right: 5px;
     color: rgb(8, 183, 8);
 }
+
+.plans{
+    height: 80vh; 
+}
+
+.plan-title{
+    font-size: 30px;
+    margin: 100px 0 40px 0;
+    text-align: center;
+}
+
+.plans-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 40px 30px 60px; 
+}
+
+.plan-item{
+    text-align: center;
+}
+
+.plan-item-title{
+    font-size: 20px;
+}
+
+.plan-text{
+    font-size: 18px;
+}
+
+.plans-tail{
+    text-align: center;
+    margin: 40px 60px 20px 60px;
+}
+
+.plan-tail-img {
+    display: block;
+    position: absolute;
+    width: 700px; 
+  }
+
+
 
 
