@@ -1,1 +1,2 @@
-# Project--New-Year-Planning
+# Practice Project
+## New Year Planning Website
