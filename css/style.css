@@ -37,3 +37,51 @@
     margin-top: 10px;
 }
 
+.main-body{
+    height: 100vh;
+}
+
+.body-image{
+    margin-left: 50px;
+}
+
+.image1{
+    width: 450px;
+    height: auto;
+    margin-left: 60px;
+}
+
+.main-body{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 140px;
+    gap: 50px;
+}
+
+
+
+.body-title{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+.body-text{
+    font-size: 18px;
+    text-align: justify;
+    margin-right: 200px;
+    margin-bottom: 10px;
+}
+
+.main-body-text ul {
+    list-style: none;
+}
+
+.main-body-text ul li:before{
+    content: "\2713";
+    margin-right: 5px;
+    color: rgb(8, 183, 8);
+}
+
+
